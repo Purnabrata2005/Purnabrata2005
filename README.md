@@ -44,7 +44,7 @@
   <img src="https://skillicons.dev/icons?i=github,notion,cloudflare,figma,postman,vscode,vercel,netlify,docker&theme=dark" />
 </p>
 
-<img src="https://img.icons8.com/fluency/48/combo-chart.png" width="22px" align="top"/> &nbsp; **GitHub Analytics**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" align="top" /> &nbsp; **GitHub Analytics**
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Purnabrata2005&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub stats" />
