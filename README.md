@@ -2,7 +2,7 @@
 <p align="center">  
   <img alt="Jio Network blocking the view? Network switch reveals the magic!"  src="./assets/coderpurna.png">
   <br><br>
-<p/>
+</p>
 
 <!-- Social Media Links -->
 <div align= center>
@@ -47,12 +47,12 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" align="top" /> &nbsp; **GitHub Analytics**
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Purnabrata2005&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purnabrata2005&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=purnabrata2005&theme=radical" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=purnabrata2005&theme=radical" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Purnabrata2005&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=purnabrata2005&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=1800" alt="GitHub streak" />
 </p>
 
 <p align="center">
